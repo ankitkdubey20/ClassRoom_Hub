@@ -1,5 +1,3 @@
-# Engage21
-
 ### Sign in/ sign up page
 - User already registered and try to sigup with the same email id then it will shown an error
 - Password and Confirm password doesn't match ,  it will shown an error
@@ -93,8 +91,4 @@
 ## Website
 
 https://goofy-heisenberg-c9c6a2.netlify.app/
-
-## Video Demo
-
-https://youtu.be/koNVFJSGOAA
 
